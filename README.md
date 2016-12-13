@@ -1,5 +1,7 @@
 This is a test to get angular-stormpath working with webpack
 
+Forked from here: https://github.com/stormpath/stormpath-angular2-express-example
+
 # Angular 2 + Express + Stormpath Example
 
 <div>
