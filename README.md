@@ -1,3 +1,5 @@
+This is a test to get angular-stormpath working with webpack
+
 # Angular 2 + Express + Stormpath Example
 
 <div>
